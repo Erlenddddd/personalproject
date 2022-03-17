@@ -1,1 +1,15 @@
-a
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+* {
+    font-family: 'Oswald', sans-serif;
+}
+
+body {
+    background-color: black;
+}
+
+.logotext {
+    font-size: 72px;
+    background: -webkit-linear-gradient(rgb(167, 48, 48), rgb(159, 209, 44));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
