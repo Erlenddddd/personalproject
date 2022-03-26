@@ -28,11 +28,12 @@ body {
    -webkit-text-fill-color: transparent;
    text-align:center;
    padding-top:200px;
-   font-weight:bold;
+   font-weight:bolder;
    margin:0%;
 }
 .logotext2 {
     font-size: 30px;
-    color:white;
+    color:rgb(0, 0, 0);
     text-align:center;
+    font-weight:bold;
 }
