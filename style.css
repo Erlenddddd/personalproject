@@ -15,7 +15,6 @@ body {
     background: linear-gradient(to right, red , yellow); 
    -webkit-background-clip: text;
    -webkit-text-fill-color: transparent;
-   padding-top:200px;
    text-align:center;
 }
 .logotext2 {
