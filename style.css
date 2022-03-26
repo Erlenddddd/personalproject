@@ -20,10 +20,10 @@ body {
 
 .logotext {
     font-size: 72px;
-    background: -webkit-linear-gradient(left, red , yellow);
-    background: -o-linear-gradient(right, red, yellow);
-    background: -moz-linear-gradient(right, red, yellow);
-    background: linear-gradient(to right, red , yellow); 
+    background: -webkit-linear-gradient(left, rgb(109, 100, 233) , rgb(221, 12, 47));
+    background: -o-linear-gradient(right, rgb(109, 100, 233) , rgb(221, 12, 47));
+    background: -moz-linear-gradient(right, rgb(109, 100, 233) , rgb(221, 12, 47));
+    background: linear-gradient(to right, rgb(109, 100, 233) , rgb(221, 12, 47)); 
    -webkit-background-clip: text;
    -webkit-text-fill-color: transparent;
    text-align:center;
