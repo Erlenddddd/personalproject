@@ -17,11 +17,11 @@ body {
    -webkit-text-fill-color: transparent;
    text-align:center;
    padding-top:200px;
+   font-weight:bold;
 }
 .logotext2 {
     font-size: 30px;
     color:black;
     padding-top:-40px;
     text-align:center;
-    font-weight:bold;
 }
