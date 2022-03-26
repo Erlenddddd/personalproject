@@ -10,7 +10,7 @@ body {
 
 .sneakedimg {
     max-width:100px;
-    align-content:center;
+    padding: left 50%;
 }
 
 .logotext {
