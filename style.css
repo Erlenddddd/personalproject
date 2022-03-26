@@ -8,6 +8,10 @@ body {
     background-image: url("https://www.woolmark.com/globalassets/_06-new-woolmark/_1-performance/vivobarefoot/vivobarefoot-hero.jpg");
 }
 
+.sneakedimg {
+    max-width:100px;
+}
+
 .logotext {
     font-size: 72px;
     background: -webkit-linear-gradient(left, red , yellow);
