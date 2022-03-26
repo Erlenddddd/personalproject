@@ -18,6 +18,10 @@ body {
     width: 50%;
 }
 
+.about {
+    max-width:50px;
+}
+
 .logotext {
     font-size: 72px;
     background: -webkit-linear-gradient(left, red , yellow);
