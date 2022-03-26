@@ -18,3 +18,11 @@ body {
 .aboutlink {
     max-width:50px;
 }
+
+.abouttop {
+    text-align:center;
+}
+
+.aboutbottom {
+    text-align:center;
+}
