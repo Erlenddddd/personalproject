@@ -9,7 +9,10 @@ body {
 
 .logotext {
     font-size: 72px;
-    background: -webkit-linear-gradient(rgb(167, 48, 48), rgb(159, 209, 44));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    background: -webkit-linear-gradient(left, red , yellow);
+    background: -o-linear-gradient(right, red, yellow);
+    background: -moz-linear-gradient(right, red, yellow);
+    background: linear-gradient(to right, red , yellow); 
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
 }
