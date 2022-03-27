@@ -8,6 +8,7 @@ body {
     background-image: url("https://assets.erlendb.com/uploads/sneakedimgAsset%203.svg");
     height:100vh;
     background-repeat: no-repeat;
+    width:100%;
 }
 
 .sneakedimg {
