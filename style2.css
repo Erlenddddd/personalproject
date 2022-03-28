@@ -20,6 +20,11 @@ body {
     max-width:50px;
     padding-top:20px;
     padding-left:20px;
+    text-decoration:none;
+}
+
+.aboutlink a {
+    text-decoration:none;
 }
 
 .abouttop {
