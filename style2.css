@@ -29,5 +29,5 @@ body {
 
 .aboutbottom {
     text-align:center;
-    width:50%;
+    table-layout: fixed; width: 500px:
 }
