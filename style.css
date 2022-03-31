@@ -19,7 +19,7 @@ body {
     width:100%;
 }
 
-.sneakedimg a {
+.sneakedimglink {
     max-width:170px;
     display: block;
     margin: 0 auto;
