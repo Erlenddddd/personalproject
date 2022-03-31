@@ -29,6 +29,8 @@ body {
 .aboutlinklink {
     text-decoration:none;
     color:black;
+    padding: 10px;
+    white-space: nowrap;
 }
 
 .logotext {
