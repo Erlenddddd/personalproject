@@ -20,14 +20,13 @@ body {
 }
 
 .aboutlink {
+    color:black;
+    white-space: nowrap;
     max-width:50px;
-    text-decoration:none;
 }
 
 .aboutlinklink {
     text-decoration:none;
-    color:black;
-    white-space: nowrap;
 }
 
 .logotext {
