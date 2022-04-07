@@ -49,7 +49,7 @@ background-color: white;
     color:grey;
 }
 
-.sneakedimglink {
+.zunoimglink {
     max-width:170px;
     display: block;
     margin: 0 auto;
@@ -57,7 +57,7 @@ background-color: white;
     padding-top:20px;
 }
 
-.sneakedimg {
+.zunoimg {
     max-width:170px;
     padding-top:0px;
     margin-right: auto;
