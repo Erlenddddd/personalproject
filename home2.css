@@ -16,9 +16,12 @@ background-color: white;
 }
 
 .image {
-  display: block;
-  width: 100%;
-  height: auto;
+    max-width:170px;
+    padding-top:0px;
+    margin-right: auto;
+    margin-left: auto;
+    display:block;
+    width:100%;
 }
 
 
