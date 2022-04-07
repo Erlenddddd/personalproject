@@ -48,3 +48,20 @@ background-color: white;
 .aboutclass {
     color:grey;
 }
+
+.sneakedimglink {
+    max-width:170px;
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    padding-top:20px;
+}
+
+.sneakedimg {
+    max-width:170px;
+    padding-top:0px;
+    margin-right: auto;
+    margin-left: auto;
+    display:block;
+    width:100%;
+}
