@@ -43,7 +43,10 @@ background-color: white;
 
 .aboutdiv {
     text-decoration:none;
-    display:flex;
+}
+
+.aboutarounddiv {
+  display:flex;
 }
 
 .aboutclass {
