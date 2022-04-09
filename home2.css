@@ -43,7 +43,6 @@ background-color: white;
 }
 
 .aboutdiv {
-    text-decoration:none;
 }
 
 .aboutarounddiv {
@@ -53,6 +52,7 @@ background-color: white;
 .aboutclass {
     color:grey;
     margin:20px;
+    text-decoration:none;
 }
 
 .zunoimglink {
