@@ -65,6 +65,7 @@ background-color: white;
 .aboutclass {
     color:grey;
     margin:20px;
+    margin-top:-30px;
     text-decoration:none;
     display: inline-block;
     position: relative;
