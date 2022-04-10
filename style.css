@@ -1,59 +1,80 @@
-@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
 * {
-    font-family: 'M PLUS 1', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 
 body {
-    background-color: rgb(255, 255, 255);
-    background: url('https://assets.erlendb.com/uploads/sneakedimgAsset%203.svg') no-repeat center fixed;  
-    height:100vh;
-    overflow: hidden;
+background-color: white;
 }
 
-.sneakedimg {
-    max-width:170px;
-    padding-top:0px;
-    margin-right: auto;
-    margin-left: auto;
-    display:block;
-    width:100%;
+  * {box-sizing: border-box}
+
+.container {
+  position: relative;
+  width: 50%;
+  max-width: 300px;
+  margin-top:100px;
 }
 
-.sneakedimglink {
-    max-width:170px;
+.newslink {
+  margin:0px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.container:hover .overlay {
+  opacity: 1;
+}
+
+.aboutdiv {
+}
+
+.aboutarounddiv {
+  display:flex;
+}
+
+.aboutclass {
+    color:grey;
+    margin:20px;
+    text-decoration:none;
+}
+
+.zunoimglink {
+    max-width:50px;
     display: block;
     margin: 0 auto;
     width: 50%;
     padding-top:20px;
 }
 
-.aboutlink {
-    color:black;
-    white-space: nowrap;
+.zunoimg {
     max-width:50px;
-    text-decoration:none;
-}
-
-.aboutlinklink {
-    text-decoration:none;
-}
-
-.logotext {
-    font-size: 72px;
-    background: -webkit-linear-gradient(left, red , yellow);
-    background: -o-linear-gradient(right, red, yellow);
-    background: -moz-linear-gradient(right, red, yellow);
-    background: linear-gradient(to right, red , yellow); 
-   -webkit-background-clip: text;
-   -webkit-text-fill-color: transparent;
-   text-align:center;
-   padding-top:200px;
-   font-weight:bolder;
-   margin:0%;
-}
-.logotext2 {
-    font-size: 30px;
-    color:palevioletred;
-    text-align:center;
-    font-weight:bold;
+    padding-top:0px;
+    margin-right: auto;
+    margin-left: auto;
+    display:block;
+    width:100%;
 }

@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1:wght@500&display=swap');
+* {
+    font-family: 'M PLUS 1', sans-serif;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    background: url('https://assets.erlendb.com/uploads/sneakedimgAsset%203.svg') no-repeat center fixed;  
+    height:100vh;
+    overflow: hidden;
+}
+
+.sneakedimg {
+    max-width:170px;
+    padding-top:0px;
+    margin-right: auto;
+    margin-left: auto;
+    display:block;
+    width:100%;
+}
+
+.sneakedimglink {
+    max-width:170px;
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    padding-top:20px;
+}
+
+.aboutlink {
+    color:black;
+    white-space: nowrap;
+    max-width:50px;
+    text-decoration:none;
+}
+
+.aboutlinklink {
+    text-decoration:none;
+}
+
+.logotext {
+    font-size: 72px;
+    background: -webkit-linear-gradient(left, red , yellow);
+    background: -o-linear-gradient(right, red, yellow);
+    background: -moz-linear-gradient(right, red, yellow);
+    background: linear-gradient(to right, red , yellow); 
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   text-align:center;
+   padding-top:200px;
+   font-weight:bolder;
+   margin:0%;
+}
+.logotext2 {
+    font-size: 30px;
+    color:palevioletred;
+    text-align:center;
+    font-weight:bold;
+}
