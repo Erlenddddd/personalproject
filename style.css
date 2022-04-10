@@ -23,6 +23,10 @@ background-color: white;
   align-items:center;
 }
 
+.newsarounddiv {
+    display:flex;
+}
+
 .image {
   display: block;
   width: 100%;
