@@ -25,6 +25,8 @@ background-color: white;
 
 .newsarounddiv {
     display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
 }
 
 .image {
