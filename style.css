@@ -119,13 +119,13 @@ background-color: white;
 .abouttopunder {
   font-size:30px;
   text-align:center;
+  color:lightgrey;
 }
 
 .aboutbottom {
   text-align:center;
-  width: 500px;
-  justify-content:center;
-  align-items:center;
+  padding-left:200px;
+  padding-right:200px;
 }
 
 /* --- */
