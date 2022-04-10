@@ -63,9 +63,11 @@ background-color: white;
 }
 
 .aboutclass {
-  display: inline-block;
-  position: relative;
-  color: #0087ca;
+    color:grey;
+    margin:20px;
+    text-decoration:none;
+    display: inline-block;
+    position: relative;
 }
 
 .aboutclass:after {
