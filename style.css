@@ -105,3 +105,18 @@ background-color: white;
     display:block;
     width:100%;
 }
+
+/* ABOUT CSS */
+
+.abouttop {
+  font-size:50px;
+  text-align:center;
+}
+
+.aboutbottom {
+  text-align:center;
+  width: 500px;
+  padding-left:100px;
+}
+
+/* --- */
