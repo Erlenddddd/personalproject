@@ -136,7 +136,7 @@ background-color: white;
 /* FOOTER */
 
 .footerline {
-  background-color:var(--main-text-color);
+  background-color:grey;
   display: inline;
   padding: 2px 1px 2px 1px;
   border-radius: 10px;
