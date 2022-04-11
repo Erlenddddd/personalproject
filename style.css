@@ -138,11 +138,11 @@ background-color: white;
 .footerline {
   background-color:grey;
   display: inline;
-  padding: 1px 1px 1px 1px;
+  padding: 2px 1px 2px 1px;
   border-radius: 10px;
   margin-right: 10px;
   margin-left: 10px;
-  height:15px;
+  height:10px;
 }
 
 .footercopyr {
