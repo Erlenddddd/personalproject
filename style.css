@@ -27,6 +27,7 @@ background-color: white;
     display:flex;
     justify-content:center;
     flex-wrap:wrap;
+    padding-right:70px;
 }
 
 .image {
