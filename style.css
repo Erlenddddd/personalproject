@@ -152,8 +152,7 @@ background-color: white;
   bottom: 0;
   width: 100%;
   background-color: white;
-  color: black;
-  filter: blur(8px);
+  color: grey;
   text-align: center;
 }
 
